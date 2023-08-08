@@ -1,4 +1,5 @@
 *.pyc
 .idea
 /venvTgBot
-/__pycache_/
+/__pycache_
+auth_data.py
